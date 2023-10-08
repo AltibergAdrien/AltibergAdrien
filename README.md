@@ -3,7 +3,7 @@
 <div align="center">  
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AltibergAdrien&layout=compact&hide_border=true&title_color=4464ad&text_color=c9d1d9&bg_color=0d1117" />
   
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AltibergAdrien&show_icons=true&count_private=true&hide_border=true&title_color=4464ad&icon_color=00bfff&text_color=c9d1d9&bg_color=0d1117" alt="Elyaquim Nattan github stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AltibergAdrien&show_icons=true&count_private=true&hide_border=true&title_color=4464ad&icon_color=00bfff&text_color=c9d1d9&bg_color=0d1117" alt="Altiberg Adrien github stats" />
 </div>
 
 ## Tecnologias
