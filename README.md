@@ -1,9 +1,10 @@
 ### Olá! Eu me chamo Altiberg Adrien 👋
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/altiberg.adrien/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/altiberg-adrien-3976a3199/)
-
-![Altiberg GitHub stats](https://github-readme-stats.vercel.app/api?username=AltibergAdrien&show_icons=true&theme=dracula)
+<div align="center">  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AltibergAdrien&layout=compact&hide_border=true&title_color=4464ad&text_color=c9d1d9&bg_color=0d1117" />
+  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AltibergAdrien&show_icons=true&count_private=true&hide_border=true&title_color=4464ad&icon_color=00bfff&text_color=c9d1d9&bg_color=0d1117" alt="Elyaquim Nattan github stats" />
+</div>
 
 ## Tecnologias
 
@@ -18,6 +19,9 @@
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div><br/>
 
+## contatos
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/altiberg.adrien/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/altiberg-adrien-3976a3199/)
 
-"Obsessão ganha do talento todas as vezes (...)"
+*_"Obsessão ganha do talento todas as vezes (...)"_*
 
